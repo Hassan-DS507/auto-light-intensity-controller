@@ -8,7 +8,7 @@ Department of Electronics and Communication Engineering
 Dr. Sherine Hassan
 
 ## 👨‍💻 Team Members
-- Hassan Abdelrazek El-Sayed Abdelrazek (Team Leader)  
+- Hassan Abdelrazek Al-Saeed Abdelrazek (Team Leader)  
 - Mohamed Mahmoud Mosad Mohamed El-Saragy  
 - Ahmed Nasr Abdelmonem Ghanem  
 - Ziad Omar Talaat Ali Shendy  
